@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789238232218143712",
+    "firebase_url": "https://authenticationdemoapp-d50f9.firebaseio.com",
+    "project_id": "authenticationdemoapp-d50f9",
+    "storage_bucket": "authenticationdemoapp-d50f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7898522318143712:android:29a6502c232d18a32s0",
+        "android_client_info": {
+          "package_name": "demo.lakini.com.phonenumberauthenticationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789238232218143712-bqg992sqlaedrgtsf4839cu5ss0ov35suljupo50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.lakini.com.phonenumberauthenticationdemo",
+            "certificate_hash": "394470ed1dfc99decf37eb752sqwed5b31fe77548136"
+          }
+        },
+        {
+          "client_id": "789238232218143712-bqg992sqlaedrgtsf4839cu5ss0ov35suljupo50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5HYJJyQgh6i0QwPITHYPSEef12ABXpEd56vo5kJWq2VFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789238232218143712-bqg992sqlaedrgtsf4839cu5ss0ov35suljupo50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

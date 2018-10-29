@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightBlue">#1994f5</color>
+    <color name="settingPage">#fdfdfd</color>
+    <color name="buttonBlue">#0d66a8</color>
+    <color name="orange">#EF6C00</color>
+    <color name="white">#ffffff</color>
+    <color name="darkgreen">#1B5E20</color>
+    <color name="grey">#b9b9b9</color>
+    <color name="darkGrey">#424242</color>
+    <color name="darkBlue">#00695C</color>
+    <color name="littledarkBlue">#006aff</color>
+    <color name="transparent">#000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#f40202</color>
+    <color name="lightGreen">#1ac5ff</color>
+    <color name="pink">#fe0060</color>
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+
+    <color name="text_lighter">#ff666666</color>
+    <color name="primary">#13ba78</color>
+    <color name="widget_bg">@color/primary</color>
+    <color name="text_inverse">#ffffffff</color>
+    <color name="layout_transparent_color">#CC271b3f</color>
+</resources>
